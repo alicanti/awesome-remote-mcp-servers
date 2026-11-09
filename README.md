@@ -2897,6 +2897,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AdsTurbo MCP connector](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo)
   🔓 - Clone a winning ad around your product, make AI-actor and product videos, and translate them with lip sync.
 
+- [Adseezy](https://adseezy.com/ai-assistants) `https://adseezy.com/mcp`
+  [![Adseezy MCP connector](https://glama.ai/mcp/connectors/com.adseezy/adseezy/badges/score.svg)](https://glama.ai/mcp/connectors/com.adseezy/adseezy)
+  🔐 - Create video ads, UGC creator ads and ad hooks for your own products.
+
 - [Advisors AI Service Navigator](https://advisorsai.ai) `https://advisorsai.ai/mcp`
   [![Advisors AI Service Navigator MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator)
   🔓 - Read-only catalog of five services, a public-page check, and a request-link; nothing is charged.
